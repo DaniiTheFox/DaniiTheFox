@@ -2,7 +2,7 @@
 
 <div align="center">
   <p>
-    <a href="https://ko-fi.com/"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" width="223" height="30"></a>
+    <a href="https://ko-fi.com/daniithefoxofficial"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" width="223" height="30"></a>
   </p>
 </div>
 
