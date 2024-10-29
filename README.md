@@ -2,7 +2,7 @@
 
 <div align="center">
   <p>
-    <a href="https://ko-fi.com/F1F576K8X"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" width="223" height="30"></a>
+    <a href="https://ko-fi.com/"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" width="223" height="30"></a>
   </p>
 </div>
 
@@ -17,23 +17,6 @@
 </div>
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
-
-#
-
-<div align="center">
-  <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-      <img width="495" height="195" alt="RobotoSkunk's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=RobotoSkunk">
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-      <img width="300" height="405" alt="Top langs." src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8">
-    </a>
-  </p>
-</div>
-
-#
 
 Do you want to know more about me? [Go to my website](http://www.pentabonyx.slpmx.com/) to get a little more information.
 
