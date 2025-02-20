@@ -16,9 +16,6 @@ Want to know more about me? [Go to my website](http://www.pentabonyx.slpmx.com/)
 Do you want to contact me? You can talk to me [on bsky](https://bsky.app/profile/daniikwiidz.bsky.social) or [send me an email](mailto:danii.kwdz@slpmx.com).
 
 ## About Me
-### Bonnie Agundis
-**Cybersecurity student and software developer.**
-
 #### Summary
 I am a student with expertise in cybersecurity and software development. I have experience with various programming languages, including:
 - C++, C, C#, Fortran, x86_64 Assembly, HTML5, CSS, JavaScript (with jQuery), Python, Java, PHP, MySQL, Node.js, Visual Basic, Turbo Basic, Color Basic, Small Basic, Lua, LSL, GML, Bash, GDScript, and GLSL.
