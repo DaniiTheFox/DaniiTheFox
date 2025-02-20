@@ -23,7 +23,6 @@ I am a student with expertise in cybersecurity and software development. I have 
 
 ### Contact
 - **GitHub:** [DaniiTheFox](https://github.com/DaniiTheFox)
-- **Location:** Mérida, Yucatán, México
 
 ## Education
 - **Cybersecurity Engineering** — Ongoing
